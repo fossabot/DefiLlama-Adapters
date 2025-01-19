@@ -1,4 +1,6 @@
 # Defillama Adapters
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2FDefiLlama-Adapters.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2FDefiLlama-Adapters?ref=badge_shield)
+
 
 Follow [this guide](https://docs.llama.fi/submit-a-project) to create an adapter and submit a PR with it.
 
@@ -41,3 +43,7 @@ The name of each rpc is `{CHAIN-NAME}_RPC`, and the name we use for each chain c
 
 ## Adapter rules
 - Never add extra npm packages, if you need a chain-level package for your chain, ask us and we'll consider it, but we can't accept any npm package that is project-specific
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2FDefiLlama-Adapters.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2FDefiLlama-Adapters?ref=badge_large)
